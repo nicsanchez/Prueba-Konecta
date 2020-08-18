@@ -1,0 +1,9 @@
+.navegacion nav ul li .client {
+    color:rgb(3, 37, 86);
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    display:inline-block;
+}
